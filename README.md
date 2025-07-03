@@ -72,6 +72,9 @@ A comprehensive knowledge repository that features detailed breakdowns of advanc
 [`Context Priming`](https://github.com/disler/just-prompt/tree/main/.claude/commands) by [disler](https://github.com/disler)  
 Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
 
+[`Headless Project Management system`](https://github.com/madviking/headless-pm) by [madviking](https://github.com/madviking)  
+A headless project management system with a web dashboard, helping to manage workflows between Claude Code agents working using different roles.
+
 [`n8n_agent`](https://github.com/kingler/n8n_agent/tree/main/.claude/commands) by [kingler](https://github.com/kingler)  
 Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
 
